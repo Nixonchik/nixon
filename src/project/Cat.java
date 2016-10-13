@@ -1,4 +1,4 @@
-package project;
+package Project;
 
 /**
  * Created by StudentTC on 11.10.2016.
